@@ -1,0 +1,3 @@
+com\github\bragagustavo\restfulcrud\service\ServicoEmpregado.class
+com\github\bragagustavo\restfulcrud\model\Empregado.class
+com\github\bragagustavo\restfulcrud\dao\EmpregadoDAO.class
